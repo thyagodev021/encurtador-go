@@ -161,6 +161,4 @@ internal/testclock/    relógio manual para testes
 - [ ] Autenticação por API key e *links por usuário*
 - [ ] Página web simples para criar links
 
-## 📄 Licença
 
-MIT. Troque `SEU NOME` no arquivo `LICENSE`.
