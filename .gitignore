@@ -1,0 +1,6 @@
+bin/
+data/
+*.test
+coverage.out
+*.tmp
+.DS_Store
